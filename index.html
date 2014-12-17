@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+      <title>Flappy Dragon!</title>
+      <meta charset="UTF-8" />
+      <!-- Libraries declared here -->
+      <script src="mraid.js"></script>
+      <script src="scripts/lib/phaser.min.js"></script>
+      <script src="scripts/lib/CNEventer.js"></script>
+
+      <!-- States declared here -->
+      <script src="scripts/states/Boot.js"></script>
+      <script src="scripts/states/FlappyDragon.js"></script>
+      <script src="scripts/states/Preloader.js"></script>
+      <script src="scripts/states/MainMenu.js"></script>
+      <script src="scripts/states/ScoreMenu.js"></script>
+
+      <!-- Pre-fabs declared here -->
+      <script src="scripts/prefabs/ADCLogo.js"></script>
+      <script src="scripts/prefabs/Boundary.js"></script>
+      <script src="scripts/prefabs/CollectableShield.js"></script>
+      <script src="scripts/prefabs/Fader.js"></script>
+      <script src="scripts/prefabs/GUIUnitTracker.js"></script>
+      <script src="scripts/prefabs/GUITimer.js"></script>
+      <script src="scripts/prefabs/LensFlare.js"></script>
+      <script src="scripts/prefabs/Spire.js"></script>
+      <script src="scripts/prefabs/Toothless.js"></script>
+
+      <!-- This will remove any default settings for any html elements so that there is no margin, padding, border, and other default settings do not interfere -->
+      <style type="text/css">
+      html, body, div, span, applet, object, iframe,
+      h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+      a, abbr, acronym, address, big, cite, code,
+      del, dfn, em, img, ins, kbd, q, s, samp,
+      small, strike, strong, sub, sup, tt, var,
+      b, u, i, center,
+      dl, dt, dd, ol, ul, li,
+      fieldset, form, label, legend,
+      table, caption, tbody, tfoot, thead, tr, th, td,
+      article, aside, canvas, details, embed,
+      figure, figcaption, footer, header, hgroup,
+      menu, nav, output, ruby, section, summary,
+      time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
+      body {
+        background: #000000;
+      }
+      </style>
+  </head>
+  <body>
+    <div id="gameContainer"></div>
+
+    <script type="text/javascript">
+      var game = new Phaser.Game(1200, 800, Phaser.CANVAS, 'gameContainer');
+
+      game.state.add('Boot', Boot);
+      game.state.add('FlappyDragon', FlappyDragon);
+      game.state.add('MainMenu', MainMenu);
+      game.state.add('Preloader', Preloader);
+      game.state.add('ScoreMenu', ScoreMenu);
+
+      game.state.start('Boot');
+    </script>
+  </body>
+</html>

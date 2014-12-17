@@ -1,0 +1,460 @@
+{"frames": [
+
+{
+	"filename": "lensFlareIntro_00000.png",
+	"frame": {"x":1210,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00001.png",
+	"frame": {"x":1210,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00002.png",
+	"frame": {"x":1210,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00003.png",
+	"frame": {"x":1210,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00004.png",
+	"frame": {"x":1210,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00005.png",
+	"frame": {"x":1512,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00006.png",
+	"frame": {"x":1210,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00007.png",
+	"frame": {"x":908,"y":1618,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00008.png",
+	"frame": {"x":908,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00009.png",
+	"frame": {"x":908,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00010.png",
+	"frame": {"x":1512,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00011.png",
+	"frame": {"x":1210,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00012.png",
+	"frame": {"x":908,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00013.png",
+	"frame": {"x":606,"y":1618,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00014.png",
+	"frame": {"x":606,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00015.png",
+	"frame": {"x":606,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00016.png",
+	"frame": {"x":606,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00017.png",
+	"frame": {"x":1512,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00018.png",
+	"frame": {"x":1210,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00019.png",
+	"frame": {"x":908,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00020.png",
+	"frame": {"x":606,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00021.png",
+	"frame": {"x":1512,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00022.png",
+	"frame": {"x":1210,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00023.png",
+	"frame": {"x":908,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00024.png",
+	"frame": {"x":606,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00025.png",
+	"frame": {"x":304,"y":1618,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00026.png",
+	"frame": {"x":304,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00027.png",
+	"frame": {"x":304,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00028.png",
+	"frame": {"x":304,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00029.png",
+	"frame": {"x":304,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00030.png",
+	"frame": {"x":304,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00031.png",
+	"frame": {"x":1512,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00032.png",
+	"frame": {"x":1210,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00033.png",
+	"frame": {"x":908,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00034.png",
+	"frame": {"x":606,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00035.png",
+	"frame": {"x":304,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00036.png",
+	"frame": {"x":2,"y":1618,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00037.png",
+	"frame": {"x":2,"y":1416,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00038.png",
+	"frame": {"x":2,"y":1214,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00039.png",
+	"frame": {"x":2,"y":1012,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00040.png",
+	"frame": {"x":2,"y":810,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00041.png",
+	"frame": {"x":2,"y":608,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00042.png",
+	"frame": {"x":2,"y":406,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00043.png",
+	"frame": {"x":1512,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00044.png",
+	"frame": {"x":1210,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00045.png",
+	"frame": {"x":908,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00046.png",
+	"frame": {"x":606,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00047.png",
+	"frame": {"x":304,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00048.png",
+	"frame": {"x":2,"y":204,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00049.png",
+	"frame": {"x":1512,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00050.png",
+	"frame": {"x":1210,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00051.png",
+	"frame": {"x":908,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00052.png",
+	"frame": {"x":606,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00053.png",
+	"frame": {"x":304,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00054.png",
+	"frame": {"x":2,"y":2,"w":300,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":200},
+	"sourceSize": {"w":300,"h":200}
+},
+{
+	"filename": "lensFlareIntro_00055.png",
+	"frame": {"x":1210,"y":1618,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":300,"h":200}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "LensFlare1.png",
+	"format": "RGBA4444",
+	"size": {"w":1814,"h":1820},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:4eb25e1d7943e72c438ae1bb9668a49b:6bfd22afd87f946155ffab4d2c4ea97d:0dd1fe06d0a6b25187ce5b1ae9c57517$"
+}
+}

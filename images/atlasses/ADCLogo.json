@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "black",
+	"frame": {"x":190,"y":2,"w":172,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":172,"h":32},
+	"sourceSize": {"w":188,"h":36}
+},
+{
+	"filename": "white",
+	"frame": {"x":2,"y":2,"w":186,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":36},
+	"sourceSize": {"w":188,"h":36}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ADCLogo.png",
+	"format": "RGBA8888",
+	"size": {"w":364,"h":40},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8176c3e7d98672c31127f3dfa4a09dcc:562019a834725d726c1a61be7f583baf:77c35ce67c71235e0238d66d5c7e5a0f$"
+}
+}
